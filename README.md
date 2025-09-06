@@ -1,5 +1,5 @@
 # Exercise-01d-Inky-Misc
 
-# Your Name
+# Ella Beihold
 
-# Your Github username
+# applelushie
